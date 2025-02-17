@@ -16,3 +16,28 @@ Technologies Used:
 Frontend: HTML, CSS, JavaScript
 
 API: Google Gemini API
+
+Setup Instructions:
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/your-repo-name.git
+
+
+2. Open index.html in a browser.
+
+
+3. Update API_KEY in script.js with your Google Gemini API key.
+
+
+4. Run the chatbot and start interacting!
+
+
+
+Future Improvements:
+
+Add speech recognition for voice-based interaction.
+
+Enhance UI/UX with animations and styling.
+
+Implement user authentication for personalized experiences.
