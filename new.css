@@ -1,0 +1,46 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+#button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#button:hover{
+    background-color: #45a049;
+
+}
+#text{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 20px;
+    box-shadow: #000 0px 0px 10px;
+    text-align: center;
+    display: inline;
+    
+}
+#text::before{
+    content: "Enter a nhumjhh ";
+    
+
+    
+    border-bottom: 1px solid;
+    margin-top: 10px;
+    
+
+}
+#text::after{
+    content: "number";
+    
+    border-bottom: 1px solid;
+    margin-top: 10px;
+    background: #000;
+}
